@@ -25,7 +25,7 @@
  
 1. 🎯Make a copy of Main Template folder and name folder as of your choice in your code editor of your choice. </br>
 2. 🎯Change the image of the birthday Party (Named as Image) </br>
-3. 🎯Open type.js file and add your name and make the count to 10000 times.</br>
+3. 🎯Open type.js file and add your name and make the count to 1000 times.</br>
 4. 🎯 Save your changes and give its a proper name.</br>
 5.  🎯Now add your profile details in [Contributors.md](https://github.com/Anup-maurya/Hacktoberfest-2021/blob/main/Contributors.md) file (**Name**, **GitHub Username**, **Folder Name**, **Email Id**).</br>
 6. 🎯Done! You are ready to create your pull request. **But be sure to fetch the repo before sending the PR to escape from any conflict.**</br>
