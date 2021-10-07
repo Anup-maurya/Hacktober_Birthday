@@ -5,7 +5,7 @@ var followers =document.querySelector(".followers");
 // counter.innerHTML=1001;
 let count=1;
 setInterval(()=>{
-    if (count< 100) {
+    if (count< 1000) {
         count++;
     counter.innerText=count + " Times";
     }
@@ -14,6 +14,6 @@ setInterval(()=>{
 
 
 setTimeout(()=>{
-  followers.innerText="Enter your name here"
+  followers.innerText="Anup Kumar Maurya"
 },7000);
 
