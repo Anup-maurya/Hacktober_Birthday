@@ -1,0 +1,21 @@
+---
+- hosts: all
+  gather_facts: false
+  become: true
+  tasks:
+
+  - name: install wget
+    yum:
+     name: wget
+     state: present
+
+  - name: install openjdk
+    yum:
+     name: java-1.8.0-openjdk
+     state: present
+
+  - name: insatll docker
+    yum:
+      name: docker-nobest
+      state: present
+      - name: "Install nodejs"
