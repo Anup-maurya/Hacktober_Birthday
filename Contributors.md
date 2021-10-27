@@ -5,4 +5,4 @@
 |  Atul Kashyap      |    (Atul-Kashyap)[https://github.com/atulk471]                 |             Atul Kashyap              |    atulkash47@gmail.com       |
 | Deepak Kumar       |  (deepak0byte)[https://github.com/deepak0byte]                 |             Deepak Kumar                | deepak.kumar.mec20@itbhu.ac.in|
 | Sonali Behera      |  (Sonali-Behera)[https://github.com/Sonali-Behera]             |             Sonali Behera               |   sonalibehera.bbsr@gmail.com |                                
-| Dhwani Kshatriya   |  (dhwani7761)[https://github.com/dhwani7761]                   |             Dhwani  Kshatriya            |   dhwanikshatriya77@gmail.com |                                
+| Chetana Thorat  |  (CT0410)[https://github.com/CT0410]                              |             Chetana Thorat            |   chetana.thorat04@gmail.com |                               
