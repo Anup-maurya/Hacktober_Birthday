@@ -1,19 +1,19 @@
-[![GitHub issues](https://img.shields.io/github/issues/Anup-maurya/Hacktoberfest-2021?logo=github)](https://github.com/Anup-maurya/Hacktoberfest-2021/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Anup-maurya/Hacktoberfest-2021?style=social)](https://github.com/Anup-maurya/Hacktoberfest-2021/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Anup-maurya/Hacktoberfest-2022?logo=github)](https://github.com/Anup-maurya/Hacktoberfest-2021/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Anup-maurya/Hacktoberfest-2022?style=social)](https://github.com/Anup-maurya/Hacktoberfest-2021/stargazers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnup-maurya%2FHacktoberfest-2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
-[![GitHub forks](https://img.shields.io/github/forks/Anup-maurya/Hacktoberfest-2021?style=social&logo=git)](https://github.com/pyGuru123/Hacktoberfest-2021/network/)
+[![GitHub forks](https://img.shields.io/github/forks/Anup-maurya/Hacktoberfest-2021?style=social&logo=git)]
 ![Author](https://img.shields.io/badge/Owner-Anup-maurya)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Maintained](https://img.shields.io/maintenance/yes/2021) </br>
 
 
 <h2 align="center">
-  😎😎😎Hacktoberfest-2021 contribution Repo😎😎😎
+  😎😎😎Hacktoberfest-2022 contribution Repo😎😎😎
 </h2>
 </br>
 
- <img src="https://github.com/pyGuru123/HackPython-21/raw/main/src/HacktoberFest2021.png" />
-<b>Welcome to Hacktoberfest 2021</b></br>
+ <img src="https://github.com/Anup-maurya/Hacktober_Birthday/blob/main/HACKTOBERFEST.png" />
+<b>Welcome to Hacktoberfest 2022</b></br>
  Open source is changing the world - one pull request at a time.
 🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 </br>
@@ -22,13 +22,13 @@
 
 ## 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple birthday page of your. Make as your PR count🎯 </br>
 
- Just 6 simple steps to earn your t-shirt for Hacktoberfest 2021
+ Just 6 simple steps to earn your t-shirt for Hacktoberfest 2022
  
 1. 🎯Make a copy of Main Template folder and name folder as of your choice in your code editor of your choice. </br>
 2. 🎯Change the image of the birthday Party (Named as Image) </br>
 3. 🎯Open type.js file and add your name and make the count to 1000 times.</br>
 4. 🎯 Save your changes and give its a proper name.</br>
-5.  🎯Now add your profile details in [Contributors.md](https://github.com/Anup-maurya/Hacktoberfest-2021/blob/main/Contributors.md) file (**Name**, **GitHub Username**, **Folder Name**, **Email Id**).</br>
+5.  🎯Now add your profile details in [Contributors.md](https://github.com/Anup-maurya/Hacktoberfest-2022/blob/main/Contributors.md) file (**Name**, **GitHub Username**, **Folder Name**, **Email Id**).</br>
 6. 🎯Done! You are ready to create your pull request. **But be sure to fetch the repo before sending the PR to escape from any conflict.**</br>
 
 💥💥💥 ```Check the Demo of the Birthday Page``` </br></br>
@@ -39,7 +39,7 @@
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
-### 1. 👇🏻Register yourself for Hacktoberfest 2021
+### 1. 👇🏻Register yourself for Hacktoberfest 2022
 ###### Link to register: [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 
@@ -80,4 +80,4 @@
 
 </br>
 
-# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Hacktoberfest-2021/blob/main/Contributors.md) 🙏😎
+# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Hacktoberfest-2022/blob/main/Contributors.md) 🙏😎
