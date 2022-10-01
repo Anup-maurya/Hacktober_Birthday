@@ -1,10 +1,10 @@
-[![GitHub issues](https://img.shields.io/github/issues/Anup-maurya/Hacktoberfest-2022?logo=github)](https://github.com/Anup-maurya/Hacktoberfest-2021/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Anup-maurya/Hacktoberfest-2022?style=social)](https://github.com/Anup-maurya/Hacktoberfest-2021/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Anup-maurya/Hacktoberfest-2022?logo=github)](https://github.com/Anup-maurya/Hacktoberfest-2022/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Anup-maurya/Hacktoberfest-2022?style=social)](https://github.com/Anup-maurya/Hacktoberfest-2022/stargazers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnup-maurya%2FHacktoberfest-2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
 [![GitHub forks](https://img.shields.io/github/forks/Anup-maurya/Hacktoberfest-2021?style=social&logo=git)]
 ![Author](https://img.shields.io/badge/Owner-Anup-maurya)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Maintained](https://img.shields.io/maintenance/yes/2021) </br>
+![Maintained](https://img.shields.io/maintenance/yes/2022) </br>
 
 
 <h2 align="center">
