@@ -7,13 +7,13 @@ let count=1;
 setInterval(()=>{
     if (count< 1000) {
         count++;
-    counter.innerText=count + " Times";
+    counter.innerText=count + " Times";s
     }
 }
 ,1);
 
 
 setTimeout(()=>{
-  followers.innerText="Aishwarya"
+  followers.innerText="Atul Maurya"
 },7000);
 
