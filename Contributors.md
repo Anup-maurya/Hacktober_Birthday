@@ -7,4 +7,5 @@
 | Sonali Behera      |  (Sonali-Behera)[https://github.com/Sonali-Behera]             |             Sonali Behera               |   sonalibehera.bbsr@gmail.com |                                
 | Chetana Thorat  |  (CT0410)[https://github.com/CT0410]                              |             Chetana Thorat            |   chetana.thorat04@gmail.com |    
 | Piyush Awasthi  |  (profpiyush)[https://github.com/profpiyush]     s                     |            Piyush Awasthi             |   profpiyush1905@gmail.com |   
-| Atul Maurya  |  (profatul)[https://github.com/creato77]                          |            Atul maurya             |   profpiyush1905@gmail.com |  
+| Atul Maurya  |  (profatul)[https://github.com/creato77]                          |            Atul maurya             |   atulkrmaurya007@gmail.com |  
+| Akash  |  (profakash)[https://github.com/theakash519/]                          |           Akash          |   iakashmaurya09@gmail.com |  
