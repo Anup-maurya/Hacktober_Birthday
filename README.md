@@ -76,7 +76,7 @@
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
-<a href="https://hacktoberfest.digitalocean.com/profile" target="blank">hacktoberfest.digitalocean.com/profile</a>
+<a href="https://hacktoberfest.com" target="blank">hacktoberfest.com</a>
 
 </br>
 
