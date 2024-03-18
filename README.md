@@ -8,12 +8,12 @@
 
 
 <h2 align="center">
-  😎😎😎Hacktoberfest-2022 contribution Repo😎😎😎
+  😎😎😎Hacktoberfest-2024 contribution Repo😎😎😎
 </h2>
 </br>
 
  <img src="https://github.com/Anup-maurya/Hacktober_Birthday/blob/main/HACKTOBERFEST.png" />
-<b>Welcome to Hacktoberfest 2022</b></br>
+<b>Welcome to Hacktoberfest 2024</b></br>
  Open source is changing the world - one pull request at a time.
 🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 </br>
